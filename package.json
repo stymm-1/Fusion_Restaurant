@@ -1,5 +1,5 @@
 {
-  "homepage": "https://stymm-1.github.io/Fusion",
+  "homepage": "https://stymm-1.github.io/Fusion_Restaurant",
   "name": "fusion",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,7 @@
     "bootstrap": "^4.6.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-animation-components": "^3.0.0",
