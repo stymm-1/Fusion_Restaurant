@@ -11,6 +11,7 @@ function RenderMenuItem ({dish, onClick}) {
                     <CardImg width="100%" src={dish.image} alt={dish.name} />
                     <CardImgOverlay>
                         <CardTitle className="head">{dish.name}</CardTitle>
+                        
                     </CardImgOverlay>
                 </Link>
             </Card>

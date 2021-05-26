@@ -33,7 +33,7 @@ handleSubmit(values) {
         this.toggleModal(); 
         this.props.addComment(this.props.dishId, values.rating, values.author, values.comment);
 
-        //event.preventDefault();
+        
     }
 
 
@@ -109,10 +109,11 @@ handleSubmit(values) {
                     exitTransform: 'scale(0.5) translateY(-50%)'
                 }}>
                 <Card className="cardrend">
-                    <CardImg width='100%' src={dish.image} alt={dish.name} />
+                    <CardImg  width='100%' src={"/"+dish.image} alt={dish.name} />
                     <CardBody>
                         <CardTitle>{dish.name}</CardTitle>
                         <CardText>{dish.description}</CardText>
+
                     </CardBody>
                 </Card>
                 </FadeTransform>
