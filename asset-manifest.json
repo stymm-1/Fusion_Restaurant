@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Fusion_Restaurant/static/css/main.e5e3414e.chunk.css",
+    "main.js": "/Fusion_Restaurant/static/js/main.e75eb344.chunk.js",
+    "main.js.map": "/Fusion_Restaurant/static/js/main.e75eb344.chunk.js.map",
+    "runtime-main.js": "/Fusion_Restaurant/static/js/runtime-main.8f414027.js",
+    "runtime-main.js.map": "/Fusion_Restaurant/static/js/runtime-main.8f414027.js.map",
+    "static/css/2.343c07e4.chunk.css": "/Fusion_Restaurant/static/css/2.343c07e4.chunk.css",
+    "static/js/2.5a6cfcf1.chunk.js": "/Fusion_Restaurant/static/js/2.5a6cfcf1.chunk.js",
+    "static/js/2.5a6cfcf1.chunk.js.map": "/Fusion_Restaurant/static/js/2.5a6cfcf1.chunk.js.map",
+    "static/js/3.5668ef24.chunk.js": "/Fusion_Restaurant/static/js/3.5668ef24.chunk.js",
+    "static/js/3.5668ef24.chunk.js.map": "/Fusion_Restaurant/static/js/3.5668ef24.chunk.js.map",
+    "index.html": "/Fusion_Restaurant/index.html",
+    "static/css/2.343c07e4.chunk.css.map": "/Fusion_Restaurant/static/css/2.343c07e4.chunk.css.map",
+    "static/css/main.e5e3414e.chunk.css.map": "/Fusion_Restaurant/static/css/main.e5e3414e.chunk.css.map",
+    "static/js/2.5a6cfcf1.chunk.js.LICENSE.txt": "/Fusion_Restaurant/static/js/2.5a6cfcf1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Fusion_Restaurant/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/Fusion_Restaurant/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f414027.js",
+    "static/css/2.343c07e4.chunk.css",
+    "static/js/2.5a6cfcf1.chunk.js",
+    "static/css/main.e5e3414e.chunk.css",
+    "static/js/main.e75eb344.chunk.js"
+  ]
+}
